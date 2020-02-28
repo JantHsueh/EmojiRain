@@ -7,7 +7,6 @@ import android.graphics.Matrix
 import android.graphics.Paint
 import android.util.AttributeSet
 import androidx.constraintlayout.widget.ConstraintLayout
-import me.xuexuan.raingroup.R
 import java.util.*
 import kotlin.collections.ArrayList
 
