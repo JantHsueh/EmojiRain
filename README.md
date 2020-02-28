@@ -1,6 +1,6 @@
 
 
-[![Build Status](https://github.com/JantHsueh/EmojiRain/workflows/RELEASE_CI/badge.svg?branch=androidx)](https://github.com/JantHsueh/EmojiRain/workflows/RELEASE_CI/badge.svg?branch=androidxn)
+[![Build Status](https://github.com/JantHsueh/EmojiRain/workflows/RELEASE_CI/badge.svg)](https://github.com/JantHsueh/EmojiRain/workflows/RELEASE_CI/badge.svg)
 [![Download](https://api.bintray.com/packages/jantxue/maven/Emoji-Rain/images/download.svg) ](https://bintray.com/jantxue/maven/Emoji-Rain/_latestVersion)
 [![Hex.pm](https://img.shields.io/hexpm/l/plug.svg)](https://www.apache.org/licenses/LICENSE-2.0)
 
@@ -8,9 +8,9 @@
 
 微信聊天中的表情雨效果一样。内部使用了资源缓存复用机制，在无限循环中，不会出现占用内存增长的问题，所以不会GC（除非），更流畅
 
-先来看下效果，太阳雨
+先来看下效果，太阳雨。(gif有点卡顿，因为录制屏幕时的帧率不够，在项目中是很流畅的)
 
-![](/gif/rain_sun.gif)
+<img src="/gif/rain_sun.gif" width="280px"/>
 
 # 使用教程
 
